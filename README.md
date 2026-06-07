@@ -1,5 +1,7 @@
 # Goalatho Mobile
 
+**[View UI & project showcase → Goalatho on portfolio](https://bassam-jawish-portfolio.vercel.app/projects/goalatho)**
+
 Cross-platform Flutter application for discovering sports pitches, booking sessions, and organizing games with friends. The app targets **Android** and **iOS** and communicates with a REST backend via a versioned API (`/api/v1`).
 
 ---
